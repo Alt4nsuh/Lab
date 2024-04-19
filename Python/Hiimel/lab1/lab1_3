@@ -1,0 +1,13 @@
+listOne = [3, 6, 9, 12, 15, 18, 21]
+listTwo = [4, 8, 12, 16, 20, 24, 28]
+
+listThree = []
+
+for index in range(len(listOne)): 
+    if index % 2 != 0:
+        listThree.append(listOne[index])
+for index in listTwo:
+  if index % 2 == 0:
+    listThree.append(index)
+    
+print(listThree)

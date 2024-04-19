@@ -1,0 +1,156 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.center-left {
+  display: flex;
+  width: 50%;
+  margin: 2%;
+  height: 70vh;
+}
+.center-left img{
+  width: 100%;
+  object-fit: cover;
+}
+
+.center-right {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  height: 70vh;
+  margin: 2%;
+}
+
+
+.center-right h1 {
+  font-size: 1.5rem;
+}
+
+.center-right input {
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.center-right p {
+  width: 100%;
+}
+
+
+.icon {
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  margin: 20px 20px 0 20px;
+}
+
+.icon .image {
+  display: flex;
+  flex-direction: row;
+}
+.icon .image img {
+  margin: 0;
+  width: 60px;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.row {
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.row h1 {
+  padding-left: 5px;
+}
+
+.buttons {
+  width: 100%;
+  margin: 0;
+  display: flex;
+  margin-bottom: 8px;
+}
+.center-right button {
+  width: calc(100% / 4 - 10px);
+  margin: 0 5px;  
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #f9ece6;
+  color: #000;
+  font-size: 1rem;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.orderDiv  {
+  width: auto;
+  display: flex;
+  margin: 25px;
+}
+
+.main {
+  display: flex;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+  width: calc(100% - 40px);
+  margin: 20px;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 40px);
+  margin: 0 20px;
+}
+
+.description h1 {
+  margin: 0 40px;
+  margin-bottom: 20px;
+}
+
+.description p {
+  margin: 0 40px;
+}
+/* Responsive adjustments */
+@media only screen and (max-width: 1024px) {
+  .content {
+    padding: 0 20px;
+  }
+
+  .center-left,
+  .center-right {
+    max-width: 100%;
+    margin: 2% 0;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .content {
+    flex-direction: column;
+  }
+
+  .center-left,
+  .center-right {
+    max-width: 100%;
+    margin: 2% 0;
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "pageProps": {
+      "entity": {
+          "id": "61511c7b-73d3-46e0-a670-679ece6011e2",
+          "title": "Бичил ертөнц",
+          "subtitle": null,
+          "isbn": "9789919511487",
+          "pages": 336,
+          "fileSize": null,
+          "publicationDate": "2024-01-10",
+          "length": null,
+          "age": null,
+          "variants": null,
+          "isEcommerceHidden": null,
+          "sampleContentPath": null,
+          "height": 305,
+          "width": 260,
+          "depth": 30,
+          "mainDescription": "<p>Тийм өчүүхэн зүйлс яахаараа ийм чухал байж болдог юм бэ?  Айзэк Азимов<br/>Орчин цагийн технологийн ачаар нүдэнд үл үзэгдэх өчүүхэн бичил, нууцлаг ертөнцийг тов тодорхой дүрслэх боломж нэгэнт бүрджээ. Тэрхүү ер бусын амьдралыг “Бичил ертөнц”  таны өмнө дэлгэн харуулж байна. Бактери, вирусээс эхлээд үсний фоллизул, ургамлын тоосны мөхлөг хүртэлх тэр бичил ертөнц хэрхэн хорвоогийн амьдралын хэм маяг бүхний үндэс болдгийг энэхүү ном яруу тодоор тайлбарлан өгүүлжээ.</p>",
+          "type": "book",
+          "categoryPaths": [
+              "Ном/Шинжлэх ухаан/Байгаль орчин, экологи"
+          ],
+          "slug": "9789919511487-бичил-ертөнц",
+          "weight": 2000,
+          "tags": [],
+          "inStock": 15,
+          "publishingStatus": {
+              "key": "04",
+              "value": "Идэвхтэй",
+              "__typename": "PublishingStatus"
+          },
+          "price": 114000,
+          "originalPrice": null,
+          "discountPrice": null,
+          "image": "N2gVSTyvNw7r6bk4vLGt.jpg",
+          "thumb": "N2gVSTyvNw7r6bk4vLGt-thumb.jpg",
+          "mediaFiles": {
+              "items": [],
+              "__typename": "ModelMediaFileConnection"
+          },
+          "editionType": null,
+          "bookEdition": null,
+          "contributors": {
+              "items": [
+                  {
+                      "id": "5c77d0e0-2421-4c0a-a669-9cb067e3fd4d",
+                      "order": null,
+                      "roleKey": "C01",
+                      "person": {
+                          "id": "d60b84f4-3626-4766-81bc-87d3c901d936",
+                          "firstName": "Крис",
+                          "lastName": "Пакхэм",
+                          "avatar": null,
+                          "biography": null,
+                          "__typename": "Person"
+                      },
+                      "role": {
+                          "value": "Эмхэтгэсэн",
+                          "__typename": "ContributorRole"
+                      },
+                      "__typename": "Contributor"
+                  }
+              ],
+              "__typename": "ModelContributorConnection"
+          },
+          "format": {
+              "key": "BB",
+              "value": "Хатуу хавтастай",
+              "__typename": "Format"
+          },
+          "language": {
+              "key": "mon",
+              "value": "Монгол",
+              "__typename": "Language"
+          },
+          "publisher": {
+              "id": "64",
+              "name": "Нэпко хэвлэлийн газар",
+              "slug": null,
+              "logo": "nepko-L1DWgefe6.png",
+              "__typename": "Publisher"
+          },
+          "reviews": {
+              "items": [],
+              "__typename": "ModelReviewConnection"
+          },
+          "numberInSeries": null,
+          "series": null,
+          "manufacturer": null,
+          "brand": null,
+          "country": {
+              "name": "Монгол",
+              "__typename": "Country"
+          },
+          "targetGender": null,
+          "playingInstruction": null,
+          "safetyWarning": null,
+          "status": "active",
+          "__typename": "Entity",
+          "authors": []
+      },
+      "entityRating": null,
+      "images": [
+          {
+              "image": "https://sinpim130259-dev.s3.ap-southeast-1.amazonaws.com/public/product-image/N2gVSTyvNw7r6bk4vLGt.jpg",
+              "thumb": "https://sinpim130259-dev.s3.ap-southeast-1.amazonaws.com/public/product-thumb/N2gVSTyvNw7r6bk4vLGt-thumb.jpg"
+          }
+      ],
+      "variants": [
+          {
+              "authors": [],
+              "categoryPaths": [
+                  "Ном/Шинжлэх ухаан/Байгаль орчин, экологи"
+              ],
+              "discountPrice": null,
+              "format": {
+                  "key": "BB",
+                  "value": "Хатуу хавтастай",
+                  "__typename": "Format"
+              },
+              "id": "61511c7b-73d3-46e0-a670-679ece6011e2",
+              "inStock": 15,
+              "isbn": "9789919511487",
+              "price": 114000,
+              "publicationDate": "2024-01-10",
+              "slug": "9789919511487-бичил-ертөнц",
+              "thumb": "N2gVSTyvNw7r6bk4vLGt-thumb.jpg",
+              "title": "Бичил ертөнц",
+              "type": "book",
+              "weight": 2000,
+              "mainDescription": "<p>Тийм өчүүхэн зүйлс яахаараа ийм чухал байж болдог юм бэ?  Айзэк Азимов<br/>Орчин цагийн технологийн ачаар нүдэнд үл үзэгдэх өчүүхэн бичил, нууцлаг ертөнцийг тов тодорхой дүрслэх боломж нэгэнт бүрджээ. Тэрхүү ер бусын амьдралыг “Бичил ертөнц”  таны өмнө дэлгэн харуулж байна. Бактери, вирусээс эхлээд үсний фоллизул, ургамлын тоосны мөхлөг хүртэлх тэр бичил ертөнц хэрхэн хорвоогийн амьдралын хэм маяг бүхний үндэс болдгийг энэхүү ном яруу тодоор тайлбарлан өгүүлжээ.</p>",
+              "shortDescription": null
+          }
+      ],
+      "samples": {}
+  },
+  "__N_SSG": true
+}
